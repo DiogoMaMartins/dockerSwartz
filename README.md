@@ -143,10 +143,11 @@ volumes:
 `docker-compose -f "docker-compose.yml" up -d`
 
 ![dockerRun](imgDocker/dockerRun.png)
+##### Now run: localhost:88  localhost/wordpress_db:3306
 
 
 
-#### Build Image:
+#### If you want Build Image:
 
 `docker build -t swartzwordpress:1.0 .`
 
