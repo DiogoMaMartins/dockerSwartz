@@ -1,8 +1,10 @@
 # **Docker and Docker Hub**
+==================================
 
 #### How to install Docker?
 
 ##### Linux:
+-------------------
 
   *`$sudo su apt-get install docker.io -y | yum install docker.io -y`*
 
